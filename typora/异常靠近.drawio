@@ -1,0 +1,98 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
+  <diagram name="第 1 页" id="ejCKXwyOUyLY911a9rb4">
+    <mxGraphModel dx="1426" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="284Dls74KQtPbW02yzSJ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="284Dls74KQtPbW02yzSJ-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="258" y="167" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-2" value="接收到船舶实时信号" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="11" y="137" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="284Dls74KQtPbW02yzSJ-4" target="284Dls74KQtPbW02yzSJ-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-7" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="284Dls74KQtPbW02yzSJ-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.0714" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-11" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="284Dls74KQtPbW02yzSJ-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.0995" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="284Dls74KQtPbW02yzSJ-4" target="284Dls74KQtPbW02yzSJ-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-12" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="284Dls74KQtPbW02yzSJ-9" vertex="1" connectable="0">
+          <mxGeometry x="-0.1436" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-4" value="是否进入九江区&lt;span style=&quot;background-color: initial;&quot;&gt;域和&lt;/span&gt;&lt;div&gt;&lt;div&gt;一些指定区域和已经审&lt;/div&gt;&lt;div&gt;批的订单&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="254" y="129.75" width="164" height="74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-5" value="不预警" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="276" y="17" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="284Dls74KQtPbW02yzSJ-8" target="284Dls74KQtPbW02yzSJ-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-8" value="查询当前所有实时信号" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="276" y="294.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="284Dls74KQtPbW02yzSJ-19" target="284Dls74KQtPbW02yzSJ-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="284Dls74KQtPbW02yzSJ-19" target="284Dls74KQtPbW02yzSJ-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-33" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="284Dls74KQtPbW02yzSJ-32" vertex="1" connectable="0">
+          <mxGeometry x="-0.0909" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-19" value="对比当前距离是否小于&lt;div&gt;等于配置的距离&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="262.5" y="424.75" width="147" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="284Dls74KQtPbW02yzSJ-24" target="284Dls74KQtPbW02yzSJ-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="284Dls74KQtPbW02yzSJ-24" target="284Dls74KQtPbW02yzSJ-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-24" value="是否为第一次预警" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="262.5" y="584.75" width="147" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-26" value="记录时间和两个船的mmsi" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="503" y="594.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="284Dls74KQtPbW02yzSJ-28" target="284Dls74KQtPbW02yzSJ-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-28" value="计算第一次和本次相隔时间" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="276" y="754.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-30" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="321" y="522" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-31" value="删除缓存" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="503" y="434.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="284Dls74KQtPbW02yzSJ-34" target="284Dls74KQtPbW02yzSJ-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-34" value="大于配置的时间" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="296" y="884.75" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="284Dls74KQtPbW02yzSJ-36" value="记录告警信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="276" y="1054.75" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
