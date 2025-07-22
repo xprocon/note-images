@@ -58,7 +58,7 @@
           <mxGeometry x="94.75" y="495" width="89.5" height="87" as="geometry" />
         </mxCell>
         <mxCell id="sW7xOyqZdAzlP1_AFJfC-15" value="记录到redis缓存" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="253.75" y="504.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="256" y="508.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sW7xOyqZdAzlP1_AFJfC-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sW7xOyqZdAzlP1_AFJfC-18" target="sW7xOyqZdAzlP1_AFJfC-24">
           <mxGeometry relative="1" as="geometry" />
@@ -72,7 +72,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sW7xOyqZdAzlP1_AFJfC-18" value="判断和第一次时间是否超过配置时间&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="99.5" y="658" width="89.5" height="87" as="geometry" />
+          <mxGeometry x="94.75" y="658" width="89.5" height="87" as="geometry" />
         </mxCell>
         <mxCell id="sW7xOyqZdAzlP1_AFJfC-24" value="记录告警信息" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="253.75" y="671.5" width="120" height="60" as="geometry" />
@@ -81,7 +81,7 @@
           <mxGeometry x="199.5" y="678" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="sW7xOyqZdAzlP1_AFJfC-27" value="更新告警状态并删除缓存" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="84.25" y="838.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="79.5" y="838" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
